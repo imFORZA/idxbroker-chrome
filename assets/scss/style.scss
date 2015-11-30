@@ -1,0 +1,102 @@
+body {
+	font:normal 12px arial,sans-serif;
+	margin:0;
+	color:#666;
+	min-width:360px;
+	overflow-x:hidden;
+}
+
+.header {
+	background:#ddd;
+	padding:20px;
+	text-align:center;
+}
+
+.header-text a,.header-text img {
+	border:none;
+	background:none;
+	text-decoration:none;
+}
+
+.content {
+	background-color:#f4f4f4;
+	padding:15px;
+}
+
+.footer {
+	border-top:1px solid #ddd;
+	padding:15px 0 5px;
+	min-width:50px;
+	margin:20px 0 0 0;
+	text-align:center;
+}
+
+hr {
+	border:0;
+	height:0;
+	border-top:1px solid rgba(0,0,0,0.1);
+	border-bottom:1px solid rgba(255,255,255,0.3);
+}
+
+.small {
+	font-size:xx-small;
+}
+
+a:visited {
+	color:blue!important;
+}
+
+#github_love {
+	text-align:right;
+}
+
+.line_up {
+	display:inline-block;
+}
+
+#append {
+	width:100%;
+	text-transform:uppercase;
+	font-size:22px;
+}
+
+h4 {
+	text-transform:uppercase;
+}
+
+.idx-active-platinum {
+	padding:10px 20px;
+	text-align:center;
+	background:#8CC645;
+	color:#fff;
+	margin:10px 0;
+	text-transform:uppercase;
+}
+
+.idx-active-original {
+	padding:10px 20px;
+	text-align:center;
+	background:#2568AD;
+	color:#fff;
+	margin:10px 0;
+	text-transform:uppercase;
+}
+
+.idx-not-active {
+	padding:10px 20px;
+	text-align:center;
+	background:#C65747;
+	color:#fff;
+	margin:10px 0;
+	text-transform:uppercase;
+}
+
+
+pre {
+	color: #fff;
+	padding: 10px;
+	background: #000;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}

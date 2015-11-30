@@ -1,0 +1,27 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "assets/js/background.min.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "assets/images/idx-19.png",
+         "38": "assets/images/idx-48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "IDX Broker DevTools"
+   },
+   "description": "A chrome extension to help developers code for and troubleshoot for IDX Broker.",
+   "homepage_url": "https://www.imforza.com",
+   "icons": {
+      "128": "assets/images/idx-128.png",
+      "48": "assets/images/idx-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArmsEVm6jAFGQTRcInFou3Vkt3FkEHEKj9VaMqjomaed7yBIICA5R+blCDeAmOJnMntYpzCXVtVKLHxIrvOMyry5AW70hJvsbJ/BP5vMC5Lso5xB6wQZY+k5441/alFmQY5dW6u+UWhR0jXYN2vSEIf8kNSd6TbvANSvMHLBQc+jL4GXDT3twXpV1ebLIw8GchJ76bQO8h27hDHeLDDRawMFD4sg09/+9PTAJxwoTUiaztrPZ9YmnGxgpHPQVq8eeFM+JSBsRTVsac8G12tTpp3KZecljT763njurLitU5h9gdfXqsXDQwE03MBFj+PgyeMojXAoI1NS0QO5KqbgRlQIDAQAB",
+   "manifest_version": 2,
+   "name": "IDX Broker Developer Tools (by imFORZA)",
+   "permissions": [ "activeTab", "tabs", "http://*/*", "https://*/*" ],
+   "short_name": "idxbroker-devtools-by-imforza",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.1"
+}
