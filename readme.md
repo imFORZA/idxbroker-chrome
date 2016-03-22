@@ -1,6 +1,6 @@
 # IDX Broker Chrome Extension (by imFORZA)
 
-The IDX Broker Chrome Extension provides various tools and suggestions to assist IDX Broker Developers and Clients in troubleshooting common issues. 
+The IDX Broker Chrome Extension provides various tools and suggestions to assist IDX Broker Developers and Clients in troubleshooting common issues. More details about the extension can be found on the [IDX Broker Blog](http://blog.idxbroker.com/imforzas-chrome-extension-makes-it-easier-for-developers-to-troubleshoot/).
 
 ### Features
 * Identify IDX Broker Original Pages
@@ -10,6 +10,13 @@ The IDX Broker Chrome Extension provides various tools and suggestions to assist
 ## Installation
 
 #### Install Developer Version from Github
+
+##### Preferred Method:
+
+[Download from Chrome Store](https://chrome.google.com/webstore/detail/idx-broker-developer-tool/jhbjpgeadnkpelpjgpgkghpmpfddhdjn?hl=en-US)
+
+##### Developer Method:
+
 1. Download the latest zip from Github
 2. In Chrome go to tools > extensions > check on Developer Mode > Load Unpacked Extension install unzipped folder.
 
