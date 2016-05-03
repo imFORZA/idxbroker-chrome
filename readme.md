@@ -7,6 +7,10 @@ The IDX Broker Chrome Extension provides various tools and suggestions to assist
 * Identify IDX Broker Lite/Platinum Pages
 * Dev Tools to append `nowrapper`, `nocss`, `nosubheader` to page url
 
+### Project Stats
+
+[![Throughput Graph](https://graphs.waffle.io/waffleio/waffle.io/throughput.svg)](https://waffle.io/imFORZA/idxbroker-chrome/metrics)
+
 ## Installation
 
 #### Install Developer Version from Github
