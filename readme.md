@@ -9,7 +9,7 @@ The IDX Broker Chrome Extension provides various tools and suggestions to assist
 
 ### Project Stats
 
-[![Throughput Graph](https://graphs.waffle.io/waffleio/waffle.io/throughput.svg)](https://waffle.io/imFORZA/idxbroker-chrome/metrics)
+[![Throughput Graph](https://graphs.waffle.io/imFORZA/idxbroker-chrome/throughput.svg)](https://waffle.io/imFORZA/idxbroker-chrome/metrics/throughput)
 
 ## Installation
 
